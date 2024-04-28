@@ -1,4 +1,3 @@
-import torch
 import deepspeech
 import pyaudio
 import wave
